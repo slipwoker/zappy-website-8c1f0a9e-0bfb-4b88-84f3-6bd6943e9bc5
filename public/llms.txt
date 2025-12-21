@@ -1,0 +1,58 @@
+# מלך הפלאפל — Generative Engine Optimization Map
+
+> A מזון ומסעדנות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://melech-hafalafel.zappy5.app
+גלה את הפלאפל הטעים ביותר בישראל במלך הפלאפל. דוכן פלאפל ליד המשרד עם מנות טריות ומהירות. בוא לטעום היום!
+
+### תפריט
+https://melech-hafalafel.zappy5.app/menu
+תפריט מלך הפלאפל - מגוון מנות פלאפל טעים בישראל, סביח, חומוס וסלטים טריים. דוכן פלאפל ליד המשרד שלך עם מחירים הוגנים.
+
+### אודות
+https://melech-hafalafel.zappy5.app/about
+הסיפור של מלך הפלאפל - דוכן פלאפל ליד המשרד שמביא פלאפל טעים בישראל עם מסורת משפחתית. גלה איפה לאכול פלאפל טוב במיקום נוח.
+
+### צור קשר
+https://melech-hafalafel.zappy5.app/contact
+צור קשר עם מלך הפלאפל - דוכן פלאפל ליד המשרד שלך. הזמן פלאפל טעים בישראל עכשיו. מיקום נוח, שעות פתיחה ופרטי התקשרות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://melech-hafalafel.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://melech-hafalafel.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://melech-hafalafel.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מלך הפלאפל
+מלך הפלאפל is a business in the מזון ומסעדנות industry.
+
+## Target Audience
+- [object Object]
+- [object Object]
+
+## Industry
+מזון ומסעדנות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://melech-hafalafel.zappy5.app/sitemap.xml
+- **Robots.txt**: https://melech-hafalafel.zappy5.app/robots.txt
