@@ -1,6 +1,4 @@
-# מלך הפלאפל — Generative Engine Optimization Map
-
-> A מזון ומסעדנות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,16 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מלך הפלאפל
-מלך הפלאפל is a business in the מזון ומסעדנות industry.
-
-## Target Audience
-- חובבי אוכל מקומי
-- עובדי משרד בקרבת מקום
-
-## Industry
-מזון ומסעדנות
-
+## About Business
 ---
 
 # Additional Resources

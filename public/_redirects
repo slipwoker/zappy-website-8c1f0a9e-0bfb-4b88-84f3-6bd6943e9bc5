@@ -2,12 +2,11 @@
 # These rewrite rules show clean URLs to users while serving .html files
 
 /menu  /menu.html  200
-/privacy  /privacy.html  200
 /about  /about.html  200
+/contact  /contact.html  200
+/privacy  /privacy.html  200
 /accessibility  /accessibility.html  200
 /terms  /terms.html  200
-/menu-group-1766311028259  /menu-group-1766311028259.html  200
-/contact  /contact.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
