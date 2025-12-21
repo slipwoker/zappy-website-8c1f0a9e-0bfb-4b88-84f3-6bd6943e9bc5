@@ -1,47 +1,58 @@
-# Business — Generative Engine Optimization Map
+# מלך הפלאפל — Generative Engine Optimization Map
+
+> A מזון ומסעדנות business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://melech-hafalafel.zappy5.app
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com
 גלה את הפלאפל הטעים ביותר בישראל במלך הפלאפל. דוכן פלאפל ליד המשרד עם מנות טריות ומהירות. בוא לטעום היום!
 
 ### תפריט
-https://melech-hafalafel.zappy5.app/menu
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/menu
 תפריט מלך הפלאפל - מגוון מנות פלאפל טעים בישראל, סביח, חומוס וסלטים טריים. דוכן פלאפל ליד המשרד שלך עם מחירים הוגנים.
 
 ### אודות
-https://melech-hafalafel.zappy5.app/about
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/about
 הסיפור של מלך הפלאפל - דוכן פלאפל ליד המשרד שמביא פלאפל טעים בישראל עם מסורת משפחתית. גלה איפה לאכול פלאפל טוב במיקום נוח.
 
 ### צור קשר
-https://melech-hafalafel.zappy5.app/contact
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/contact
 צור קשר עם מלך הפלאפל - דוכן פלאפל ליד המשרד שלך. הזמן פלאפל טעים בישראל עכשיו. מיקום נוח, שעות פתיחה ופרטי התקשרות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://melech-hafalafel.zappy5.app/privacy
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://melech-hafalafel.zappy5.app/terms
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://melech-hafalafel.zappy5.app/accessibility
+https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מלך הפלאפל
+מלך הפלאפל is a business in the מזון ומסעדנות industry.
+
+## Target Audience
+- חובבי אוכל מקומי
+- עובדי משרד בקרבת מקום
+
+## Industry
+מזון ומסעדנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://melech-hafalafel.zappy5.app/sitemap.xml
-- **Robots.txt**: https://melech-hafalafel.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/robots.txt
