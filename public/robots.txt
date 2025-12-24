@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-8c1f0a9e-0bfb-4b88-84f3.onrender.com/sitemap.xml
+Sitemap: https://melech-hafalafel.zappy5.app/sitemap.xml
